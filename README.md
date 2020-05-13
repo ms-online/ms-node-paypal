@@ -9,3 +9,6 @@ paypal.configure({
     'client_id': '<你的PayPal-APP-client_id>',
     'client_secret': '<你的PayPal-APP-client_secret>'
   });
+
+  初始化：
+  npm install
